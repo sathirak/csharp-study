@@ -1,4 +1,9 @@
-# C# and .NET Core Study Repository
+#  C# and .NET Core Study Repository
+
+<div align="center">
+  <img width="200" height="200" src="https://github.com/sathirak/csharp-study/assets/145209193/c1b2acb6-954a-4fe7-8725-2c0c2d6ad15b" />
+<div/>
+
 
 This repository is dedicated to studying and practicing C# and .NET Core development. It contains various projects, examples, and resources to help you learn and improve your skills in this domain.
 
@@ -30,3 +35,7 @@ To get started with this repository, you'll need to have the following installed
 - Your preferred code editor or IDE (e.g., Visual Studio Code, Visual Studio)
 
 Once you have the prerequisites installed, you can clone this repository to your local machine:
+
+
+
+
